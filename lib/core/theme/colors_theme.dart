@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-abstract class ColorsTheme {
+class ColorsTheme {
   static Color background = Colors.black;
   static Color secondary = Colors.white;
   static Color secondaryVariant = Colors.white60;

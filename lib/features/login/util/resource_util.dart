@@ -1,4 +1,4 @@
-abstract class ResourceUtil {
+class ResourceUtil {
   static String loginTitle = 'Get your Money Under Control';
   static String loginSubtitle = 'Manage your expenses. Seamslessly';
   static String signUpButtonEmail = 'Sign Up with Email ID';
