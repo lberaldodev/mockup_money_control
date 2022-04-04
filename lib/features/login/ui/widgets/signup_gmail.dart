@@ -22,7 +22,7 @@ class SignupGmail extends StatelessWidget {
             Padding(
               padding: const EdgeInsets.only(right: 10),
               child: Image.asset(
-                'lib/core/assets/images/google-logo.png',
+                'assets/images/google-logo.png',
                 width: 30,
               ),
             ),
